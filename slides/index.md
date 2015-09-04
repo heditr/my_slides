@@ -1,10 +1,9 @@
+Conception et développement d'une suite de SDKs et de plugin
+ pour l'intégration des services de signature électronique
+  de la plate-forme Universign
 
-# Reveal.js and Yeoman is Awesomeness
-
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Réalisé par: Med Hedi TRABELSI  
+Encadré par:
+* Mr Belhessan Oueslati
+* Mlle Feten El Feki
+* Mme Khadija Ferjani

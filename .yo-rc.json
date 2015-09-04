@@ -1,8 +1,8 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Reveal.js and Yeoman is Awesomeness",
+    "presentationTitle": "Présentation PFE",
     "packageVersion": "0.0.0",
-    "revealTheme": "sky",
+    "revealTheme": "white",
     "useSass": false,
     "deployToGithubPages": false
   }
