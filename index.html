@@ -17,7 +17,7 @@
     
 
         <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
+        <link rel="stylesheet" href="bower_components/highlightjs/styles/far.css">
 
         <!-- Printing and PDF exports -->
         <script>
@@ -32,11 +32,7 @@
         <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
         <![endif]-->
     </head>
-    <style type="text/css">
-    .no-border{
-        border: none !important;
-    }
-    </style>
+
     <body>
 
         <div class="reveal">
@@ -54,7 +50,7 @@
                 
                     
                         
-    <section data-background-image="images/plan.jpg" data-background-size="700px" data-html="slides/plan.html"></section>
+    <section data-background="images/plan.jpg" data-background-size="700px" data-html="slides/plan.html"></section>
 
 
                     
@@ -62,23 +58,7 @@
                 
                     
                         
-    <section data-background-image="images/signature.jpg" data-background-size="468px" data-html="slides/slide1.html"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-html="slides/class-diagram.html"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-html="slides/class-diagram1.html"></section>
+    <section data-background="images/signature.jpg" data-background-size="468px" data-html="slides/slide1.html"></section>
 
 
                     
@@ -113,14 +93,7 @@
               { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
             ]
           });
-            window.addEventListener("mousedown", handleClick, false);
-            window.addEventListener("contextmenu", function(e) { e.preventDefault(); }, false);
 
-            function handleClick(e) {
-                e.preventDefault();
-                if(e.button === 0) Reveal.next(); 
-                if(e.button === 2) Reveal.prev(); 
-            }
         </script>
     </body>
 

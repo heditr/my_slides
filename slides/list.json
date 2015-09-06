@@ -1,8 +1,17 @@
 [
     "page-garde.html",
-    "plan.html",
-    "slide1.html",
-    "class-diagram.html",
-    "class-diagram1.html"
-    
+    {
+        "filename": "plan.html",
+        "attr": {
+            "data-background": "images/plan.jpg",
+            "data-background-size": "700px"
+        }
+    },
+    {
+        "filename": "slide1.html",
+        "attr": {
+            "data-background": "images/signature.jpg",
+            "data-background-size": "468px"
+        }
+    }
 ]
