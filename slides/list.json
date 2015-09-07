@@ -8,10 +8,8 @@
         }
     },
     {
-        "filename": "slide1.html",
-        "attr": {
-            "data-background": "images/signature.jpg",
-            "data-background-size": "468px"
-        }
-    }
+        "filename": "slide1.html"
+    },
+    "problematique.html",
+    "solution.html"
 ]
