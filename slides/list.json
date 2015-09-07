@@ -11,5 +11,31 @@
         "filename": "slide1.html"
     },
     "problematique.html",
-    "solution.html"
+    "solution.html",
+    {
+        "filename": "bf.html",
+        "attr": {
+            "data-background-transition": "fade"
+        }
+    },
+    {
+        "filename": "bnf-sdk.html",
+        "attr": {
+            "data-background-transition": "fade"
+        }
+    },
+    {
+        "filename": "bf-plugin.html",
+        "attr": {
+            "data-background-transition": "fade"
+        }
+    },
+    {
+        "filename": "bnf.html",
+        "attr": {
+            "data-background-transition": "fade"
+        }
+    },
+    "class-diagram.html",
+    "realisation.html"
 ]
