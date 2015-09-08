@@ -11,6 +11,7 @@
         "filename": "slide1.html"
     },
     "problematique.html",
+    "archi-univ.html",
     "solution.html",
     {
         "filename": "bf.html",
@@ -36,6 +37,8 @@
             "data-background-transition": "fade"
         }
     },
+    "shema-integration.html",
     "class-diagram.html",
-    "realisation.html"
+    "realisation.html",
+    "conclusion.html"
 ]
